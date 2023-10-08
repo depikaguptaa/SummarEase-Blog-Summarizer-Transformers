@@ -1,0 +1,6 @@
+transformers
+beautifulsoup
+pandas
+requests
+gpt2, bert, bart models
+rouge-score, blue-score
